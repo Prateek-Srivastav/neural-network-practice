@@ -1,5 +1,7 @@
 # neural-network-practice
 ## makemore: 
-> a character based bigram model which predicts the next character given the previous one.
+* a character based bigram model which predicts the next character given the previous one.
 ## makemore_mlp: 
-> a character based model which predicts the next character taking into acocunt the previous three characters using MLP(Multilayer Perceptron).
+* a character based model which predicts the next character taking into acocunt the previous three characters using MLP(Multilayer Perceptron).
+
+> both are trained on a set of names, so they predict names
